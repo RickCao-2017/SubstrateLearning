@@ -1,5 +1,5 @@
 mod ans;
-use ans::ans::*;
+use ans::*;
 
 fn main() {
     let nums = &[1u32, 2u32, 3u32];
