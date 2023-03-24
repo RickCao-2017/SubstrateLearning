@@ -1,5 +1,5 @@
-mod que_6;
-use que_6::*;
+mod ans;
+use ans::ans::*;
 
 fn main() {
     let nums = &[1u32, 2u32, 3u32];
